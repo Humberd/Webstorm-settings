@@ -22,6 +22,7 @@
     <mouse-shortcut keystroke="control button143" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="ExpressionTypeInfo" />
   <action id="GotoTest" />
   <action id="Help.KeymapReference">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
@@ -51,6 +52,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
