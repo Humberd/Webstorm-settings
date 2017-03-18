@@ -62,6 +62,9 @@
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt 2" />
+  </action>
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
