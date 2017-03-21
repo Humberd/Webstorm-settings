@@ -1,0 +1,16 @@
+<templateSet group="myTemplates">
+  <template name="log" value="console.log($stuff$);" description="console.log()" toReformat="false" toShortenFQNames="true">
+    <variable name="stuff" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="iife" value="(function () {&#10;    &quot;use strict&quot;;&#10;    &#10;    $code$&#10;})();" description="Immediately Invoked Function Expression" toReformat="false" toShortenFQNames="true">
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
