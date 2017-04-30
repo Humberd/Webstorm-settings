@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Hellots" type="TypeScript" />
       <mapping pattern="EnterGiveawayResponse" type="TypeScript" />
+      <mapping pattern="EnteringStorageSave" type="TypeScript" />
       <mapping pattern="GiveawaysEntererService" type="TypeScript" />
       <mapping pattern="CoinsDisplayController" type="TypeScript" />
     </extensionMap>
