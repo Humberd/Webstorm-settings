@@ -24,8 +24,16 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
   </action>
-  <action id="EditorSelectWord" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="ExpressionTypeInfo" />
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="GotoTest" />
   <action id="Help.KeymapReference">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
@@ -47,6 +55,12 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="ShowBookmarks" />
+  <action id="StepInto" />
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="StepOver" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -62,6 +76,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ToggleBookmark" />
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
