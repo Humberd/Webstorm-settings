@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="ProductAvailableSubsListPageComponent" type="TypeScript" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Hellots" type="TypeScript" />
-      <mapping pattern="product-details" type="TypeScript" />
+      <mapping pattern="ProductAvailableSubsListPageComponent" type="TypeScript" />
       <mapping pattern="EnterGiveawayResponse" type="TypeScript" />
       <mapping pattern="EnteringStorageSave" type="TypeScript" />
       <mapping pattern="GiveawaysEntererService" type="TypeScript" />
+      <mapping pattern="product-details" type="TypeScript" />
       <mapping pattern="CoinsDisplayController" type="TypeScript" />
       <mapping ext="dto" type="TypeScript" />
     </extensionMap>
