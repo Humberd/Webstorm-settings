@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="$default">
+<keymap version="1" name="Humberd" parent="$default">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -74,8 +74,14 @@
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
