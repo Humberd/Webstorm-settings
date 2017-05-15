@@ -1,12 +1,19 @@
-<scheme name="Monokai my copy" version="142" parent_scheme="Default">
+<scheme name="Humberd colors" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-05-15T21:55:25</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2017.1.2.0.0</property>
+    <property name="modified">2017-05-15T21:55:38</property>
+    <property name="originalScheme">Monokai my copy</property>
+  </metaInfo>
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
@@ -56,12 +63,6 @@
     <option name="BUILDOUT.VALUE">
       <value>
         <option name="FOREGROUND" value="e6db74" />
-      </value>
-    </option>
-    <option name="CLASS_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="272822" />
       </value>
     </option>
     <option name="CLASS_REFERENCE">
@@ -778,6 +779,8 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="f92672" />
