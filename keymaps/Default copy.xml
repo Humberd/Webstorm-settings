@@ -28,12 +28,8 @@
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="ExpressionTypeInfo" />
-  <action id="ForceStepInto">
-    <keyboard-shortcut first-keystroke="f11" />
-  </action>
-  <action id="ForceStepOver">
-    <keyboard-shortcut first-keystroke="f10" />
-  </action>
+  <action id="ForceStepInto" />
+  <action id="ForceStepOver" />
   <action id="GotoTest" />
   <action id="Help.KeymapReference">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
@@ -57,9 +53,7 @@
   </action>
   <action id="ShowBookmarks" />
   <action id="StepInto" />
-  <action id="StepOut">
-    <keyboard-shortcut first-keystroke="shift f11" />
-  </action>
+  <action id="StepOut" />
   <action id="StepOver" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -76,9 +70,23 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="ToggleBookmark" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="ToggleInlineHintsAction">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift ctrl alt 2" />
@@ -87,4 +95,5 @@
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="javaee.UpdateRunningApplication" />
 </keymap>
