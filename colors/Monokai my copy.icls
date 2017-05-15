@@ -58,6 +58,12 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="272822" />
+      </value>
+    </option>
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
