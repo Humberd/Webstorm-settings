@@ -9,6 +9,7 @@
       <mapping pattern="GiveawaysEntererService" type="TypeScript" />
       <mapping pattern="product-details" type="TypeScript" />
       <mapping pattern="CoinsDisplayController" type="TypeScript" />
+      <mapping pattern="captcha-register-request" type="TypeScript" />
       <mapping ext="dto" type="TypeScript" />
     </extensionMap>
   </component>
