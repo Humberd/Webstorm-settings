@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Hellots" type="TypeScript" />
+      <mapping pattern="OrgLinksGenerator" type="TypeScript" />
       <mapping pattern="ProductAvailableSubsListPageComponent" type="TypeScript" />
       <mapping pattern="EnterGiveawayResponse" type="TypeScript" />
       <mapping pattern="EnteringStorageSave" type="TypeScript" />
