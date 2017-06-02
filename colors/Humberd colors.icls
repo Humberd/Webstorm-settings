@@ -4,7 +4,7 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-05-30T21:30:35</property>
+    <property name="modified">2017-06-02T21:23:33</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
@@ -734,6 +734,12 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="f92672" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="f92672" />
@@ -1177,6 +1183,12 @@
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="List/map to object conversion">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MACRONAME">
@@ -1833,6 +1845,13 @@
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="583535" />
+      </value>
+    </option>
+    <option name="Unresolved reference access">
+      <value>
+        <option name="FOREGROUND" value="f9292b" />
+        <option name="EFFECT_COLOR" value="f9292b" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
