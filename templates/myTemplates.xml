@@ -41,4 +41,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="pl" value="println($CONTENT$)" description="println() in Kotlin" toReformat="false" toShortenFQNames="true">
+    <variable name="CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
