@@ -1,4 +1,4 @@
-<keymap version="1" name="Humberd" parent="$default">
+<keymap version="1" name="Default copy" parent="$default">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -28,31 +28,21 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
+  <action id="EditorSelectWord" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
-  <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="shift alt 1" />
-  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
-  <action id="PerforceDirect.Edit" />
   <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
-  </action>
-  <action id="Run" />
-  <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="shift f10" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -69,28 +59,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="f10" />
-  </action>
-  <action id="ToggleBookmarkWithMnemonic">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
-  <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="shift f11" />
-  </action>
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="f11" />
-  </action>
-  <action id="TogglePresentationMode">
-    <keyboard-shortcut first-keystroke="ctrl f11" />
-  </action>
   <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="XPathView.Actions.Evaluate" />
-  <action id="XPathView.Actions.FindByExpression" />
-  <action id="XPathView.Actions.ShowPath" />
-  <action id="liveedit.UpdateRunningApplication" />
 </keymap>
