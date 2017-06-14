@@ -31,6 +31,7 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="GotoFile" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="InspectCode">
@@ -51,6 +52,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="Run" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f10" />
   </action>
