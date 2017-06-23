@@ -1,6 +1,0 @@
-<keymap version="1" name="Default copy 0" parent="$default">
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="ctrl t" />
-  </action>
-  <action id="Vcs.UpdateProject" />
-</keymap>
