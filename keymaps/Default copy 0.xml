@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>
