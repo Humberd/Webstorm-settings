@@ -4,7 +4,7 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-05-30T21:30:35</property>
+    <property name="modified">2017-06-06T22:47:09</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
@@ -734,6 +734,12 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="GROOVY_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="f92672" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="f92672" />
@@ -952,6 +958,11 @@
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
     <option name="JS.PARAMETER">
       <value>
         <option name="FOREGROUND" value="fd971f" />
@@ -1179,6 +1190,12 @@
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
+    <option name="List/map to object conversion">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -1339,6 +1356,12 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="PY.BRACES">
+      <value />
+    </option>
+    <option name="PY.BRACKETS">
+      <value />
+    </option>
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
@@ -1351,15 +1374,26 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="PY.COMMA">
+      <value />
+    </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
+        <option name="FOREGROUND" value="f2bff9" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="75715e" />
       </value>
+    </option>
+    <option name="PY.DOC_COMMENT_TAG">
+      <value>
+        <option name="FOREGROUND" value="75715e" />
+      </value>
+    </option>
+    <option name="PY.DOT">
+      <value />
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
@@ -1378,6 +1412,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="7abbf8" />
+      </value>
+    </option>
     <option name="PY.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="75715e" />
@@ -1393,12 +1432,36 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
+    <option name="PY.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="fd971f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.PARENTHS">
+      <value />
+    </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
       </value>
     </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
     <option name="PY.STRING">
+      <value>
+        <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
+      <value>
+        <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
       <value>
         <option name="FOREGROUND" value="e6db74" />
       </value>
@@ -1417,11 +1480,6 @@
       <value>
         <option name="FOREGROUND" value="fd971f" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REST.EXPLICIT">
@@ -1447,11 +1505,6 @@
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="4d5d3d" />
-      </value>
-    </option>
-    <option name="REST.ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REST.LINE_COMMENT">
@@ -1833,6 +1886,13 @@
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="583535" />
+      </value>
+    </option>
+    <option name="Unresolved reference access">
+      <value>
+        <option name="FOREGROUND" value="f9292b" />
+        <option name="EFFECT_COLOR" value="f9292b" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
