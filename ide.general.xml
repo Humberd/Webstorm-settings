@@ -8,6 +8,5 @@
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="ide.ssh.one.time.password" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="search.everywhere.settings" value="true" />
   </component>
 </application>
