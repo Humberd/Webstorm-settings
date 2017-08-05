@@ -1,0 +1,10 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="generateMicroBenchmark">
+        <abbreviation name="jmhb" />
+      </action>
+      <action id="ShowUmlDiagram" />
+    </abbreviations>
+  </component>
+</application>
