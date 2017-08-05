@@ -10,6 +10,9 @@
   <action id="ActivateTODOToolWindow" />
   <action id="AddToFavoritesPopup" />
   <action id="Android.CleanRun" />
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
