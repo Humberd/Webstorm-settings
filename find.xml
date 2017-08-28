@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[att-vr-portal] - ...\api\src\tests\e2e\app\common\collection-helper.spec.ts'" />
-    <option name="defaultScopeName" value="File '[att-vr-portal] - ...\api\src\tests\e2e\app\common\collection-helper.spec.ts'" />
+    <option name="customScope" value="Directory '[att-vr-portal] - ...\api'" />
+    <option name="defaultScopeName" value="Directory '[att-vr-portal] - ...\api'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[att-vr-portal] - ...\api\src\tests\e2e\app\common\collection-helper.spec.ts'" />
+    <option name="SEARCH_SCOPE" value="Directory '[att-vr-portal] - ...\api'" />
   </component>
 </application>
