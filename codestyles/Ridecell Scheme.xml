@@ -1,4 +1,5 @@
 <code_scheme name="Ridecell Scheme">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
