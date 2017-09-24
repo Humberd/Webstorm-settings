@@ -96,6 +96,9 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
+  <action id="ToggleInlineHintsAction">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
