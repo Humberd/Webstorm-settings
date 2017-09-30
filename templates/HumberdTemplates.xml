@@ -1,4 +1,4 @@
-<templateSet group="myTemplates">
+<templateSet group="HumberdTemplates">
   <template name="log" value="console.log($code$);" description="console.log()" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
@@ -53,6 +53,16 @@
     <variable name="ACTIONS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="col" value="companion object: KLogging()" description="companion object logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="pvl" value="private var logger = KLogging().logger()" description="private var logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
     </context>
   </template>
 </templateSet>
