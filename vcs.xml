@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/Humberd/Spring-Kotlin-RxJava2-Retrofit-StarterPack.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Humberd/tar-firebase-app" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Repositories" />
