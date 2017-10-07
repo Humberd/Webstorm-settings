@@ -4,7 +4,7 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-10-05T00:00:23</property>
+    <property name="modified">2017-10-07T16:56:38</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
@@ -837,6 +837,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="273627" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ededed" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
