@@ -4,7 +4,7 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-10-07T16:56:38</property>
+    <property name="modified">2017-10-14T01:28:20</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
@@ -1000,6 +1000,12 @@
     <option name="JSON.COLON">
       <value>
         <option name="FOREGROUND" value="f92672" />
+      </value>
+    </option>
+    <option name="KDOC_LINK">
+      <value>
+        <option name="FOREGROUND" value="c0c0c0" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="KOTLIN_ABSTRACT_CLASS">
