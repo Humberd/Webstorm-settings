@@ -4,19 +4,11 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="ActivateAndroidMonitorToolWindow">
-    <keyboard-shortcut first-keystroke="alt 6" />
-  </action>
-  <action id="ActivateTODOToolWindow" />
   <action id="AddToFavoritesPopup" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
-  <action id="CodeCleanup">
-    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
-  </action>
-  <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -29,20 +21,12 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
   </action>
-  <action id="EditorSelectLine">
-    <keyboard-shortcut first-keystroke="shift ctrl d" />
-  </action>
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
+  <action id="EditorSelectWord" />
   <action id="GotoTest" />
+  <action id="Help.KeymapReference">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="Images.ShowThumbnails" />
-  <action id="InspectCode">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
-  </action>
-  <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="shift alt 1" />
-  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
@@ -52,10 +36,6 @@
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
-  </action>
-  <action id="Run" />
-  <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="shift f10" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -72,19 +52,8 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="f10" />
-  </action>
-  <action id="ToggleBookmarkWithMnemonic">
-    <keyboard-shortcut first-keystroke="ctrl f10" />
-  </action>
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="f11" />
-  </action>
-  <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="liveedit.UpdateRunningApplication" />
 </keymap>

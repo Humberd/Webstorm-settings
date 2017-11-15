@@ -1,0 +1,3 @@
+<templateSet group="MY_TEMPLATES">
+  <template name="ffff" value="ffff" description="ffff" toReformat="false" toShortenFQNames="true" />
+</templateSet>
