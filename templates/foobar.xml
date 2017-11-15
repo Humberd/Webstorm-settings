@@ -1,0 +1,3 @@
+<templateSet group="foobar">
+  <template name="fsdfds" value="sdffds" description="dfsfds" toReformat="false" toShortenFQNames="true" />
+</templateSet>
