@@ -1,0 +1,7 @@
+<templateSet group="MY_TEMPLATES">
+  <template name="col" value="companion object : KLogging()" description="companion object : KLogging()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
