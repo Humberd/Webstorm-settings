@@ -12,6 +12,7 @@
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <mapping pattern="default.conf" type="nginx file type" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
