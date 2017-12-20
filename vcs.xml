@@ -51,35 +51,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/Ridecell/rnative-job-management" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Ridecell/web-common.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://bitbucket.org/acaisoft/electric-simulator" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Ridecell/web-redux-job-management" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Ridecell/web-feature-authentication-staff" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Humberd/spring-MAB4.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Ridecell/web-feature-authentication" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Ridecell/svc-authentication" />
+          <option name="url" value="https://github.com/Humberd/MicroTwitter" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -89,8 +61,5 @@
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Repositories" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
   </component>
 </application>
