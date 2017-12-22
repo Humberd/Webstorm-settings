@@ -6,7 +6,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="iife" value="(function () {    &#10;    &quot;use strict&quot;;&#10;    &#10;    $code$&#10;})();" description="Immediately Invoked Function Expression" toReformat="false" toShortenFQNames="true">
+  <template name="iife" value="(function () {    &#10;    'use strict';&#10;    &#10;    $code$&#10;})();" description="Immediately Invoked Function Expression" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
