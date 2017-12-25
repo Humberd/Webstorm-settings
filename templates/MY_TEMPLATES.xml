@@ -57,19 +57,19 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="glog" value="Gdx.app.log(LOG_TAG, &quot;$message$&quot;)" description="LibGdx Log" toReformat="false" toShortenFQNames="true">
+  <template name="glog" value="Gdx.app.log(this.javaClass.simpleName, &quot;$message$&quot;)" description="LibGdx Log" toReformat="false" toShortenFQNames="true">
     <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="gerr" value="Gdx.app.error(LOG_TAG, &quot;$message$&quot;)" description="LibGdx Error" toReformat="false" toShortenFQNames="true">
+  <template name="gerr" value="Gdx.app.error(this.javaClass.simpleName, &quot;$message$&quot;)" description="LibGdx Error" toReformat="false" toShortenFQNames="true">
     <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="gdebug" value="Gdx.app.debug(LOG_TAG, &quot;$message$&quot;)" description="LibGdx Debug" toReformat="false" toShortenFQNames="true">
+  <template name="gdebug" value="Gdx.app.debug(this.javaClass.simpleName, &quot;$message$&quot;)" description="LibGdx Debug" toReformat="false" toShortenFQNames="true">
     <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
