@@ -6,7 +6,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="iife" value="(function () {    &#10;    &quot;use strict&quot;;&#10;    &#10;    $code$&#10;})();" description="Immediately Invoked Function Expression" toReformat="false" toShortenFQNames="true">
+  <template name="iife" value="(function () {    &#10;    'use strict';&#10;    &#10;    $code$&#10;})();" description="Immediately Invoked Function Expression" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -53,6 +53,24 @@
     </context>
   </template>
   <template name="pvl" value="private var logger = KLogging().logger()" description="private var logger" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="glog" value="Gdx.app.log(this.javaClass.simpleName, &quot;$message$&quot;)" description="LibGdx Log" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="gerr" value="Gdx.app.error(this.javaClass.simpleName, &quot;$message$&quot;)" description="LibGdx Error" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="gdebug" value="Gdx.app.debug(this.javaClass.simpleName, &quot;$message$&quot;)" description="LibGdx Debug" toReformat="false" toShortenFQNames="true">
+    <variable name="message" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
     </context>
