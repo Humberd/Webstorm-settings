@@ -101,7 +101,9 @@
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
-  <action id="TypeHierarchy" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt 8" />
+  </action>
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
