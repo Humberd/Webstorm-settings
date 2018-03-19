@@ -75,4 +75,11 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="test" value="@Test&#10;fun `should $testName$`() {&#10;    $testBody$&#10;}" description="JUnit 5 test method" toReformat="false" toShortenFQNames="true">
+    <variable name="testName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="testBody" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
 </templateSet>
