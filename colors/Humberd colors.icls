@@ -4,7 +4,7 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-03-27T11:29:57</property>
+    <property name="modified">2018-04-06T23:46:41</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
@@ -1066,7 +1066,7 @@
     </option>
     <option name="KOTLIN_CLASS">
       <value>
-        <option name="FOREGROUND" value="5c86f8" />
+        <option name="FOREGROUND" value="c4a4f8" />
       </value>
     </option>
     <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
