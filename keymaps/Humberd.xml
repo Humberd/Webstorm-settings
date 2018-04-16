@@ -7,12 +7,6 @@
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
-  <action id="ActivateDatabaseToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl alt 2" />
-  </action>
-  <action id="ActivateMavenProjectsToolWindow">
-    <keyboard-shortcut first-keystroke="ctrl alt 1" />
-  </action>
   <action id="ActivateTODOToolWindow" />
   <action id="AddToFavoritesPopup" />
   <action id="Android.CleanRun" />
@@ -56,7 +50,9 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift alt 2" />
   </action>
+  <action id="NextProjectWindow" />
   <action id="PerforceDirect.Edit" />
+  <action id="PreviousProjectWindow" />
   <action id="RecentFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt f" />
@@ -102,21 +98,15 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
-  <action id="ToggleInlineHintsAction">
-    <keyboard-shortcut first-keystroke="alt p" />
-  </action>
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="TypeHierarchy">
-    <keyboard-shortcut first-keystroke="shift alt h" />
+    <keyboard-shortcut first-keystroke="ctrl alt 8" />
   </action>
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
-  <action id="Vcs.Show.Log">
-    <keyboard-shortcut first-keystroke="alt 6" />
-  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
