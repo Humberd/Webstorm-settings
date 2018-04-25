@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="lss" type="CSS" />
       <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping ext="vue" type="HTML" />
       <mapping ext="sap" type="JSON" />
       <mapping pattern=".nginx.conf" type="PLAIN_TEXT" />
       <mapping pattern=".dvwignore" type="PLAIN_TEXT" />
