@@ -20,6 +20,7 @@
   <action id="CodeCleanup">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="CopyElement" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -101,10 +102,14 @@
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
+  <action id="TriggerPlayInUnity">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt 8" />
   </action>
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
