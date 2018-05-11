@@ -14,6 +14,10 @@
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="lml" type="XML" />
+      <mapping ext="controller" type="YAML" />
+      <mapping ext="anim" type="YAML" />
+      <mapping ext="mat" type="YAML" />
+      <mapping ext="prefab" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
