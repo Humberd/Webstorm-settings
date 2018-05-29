@@ -15,6 +15,7 @@
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="lml" type="XML" />
       <mapping ext="controller" type="YAML" />
+      <mapping ext="asset" type="YAML" />
       <mapping ext="anim" type="YAML" />
       <mapping ext="mat" type="YAML" />
       <mapping ext="prefab" type="YAML" />
