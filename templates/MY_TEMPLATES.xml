@@ -47,7 +47,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="col" value="companion object: KLogging()" description="companion object logger" toReformat="false" toShortenFQNames="true">
+  <template name="col" value="companion object: mu.KLogging()" description="companion object logger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
@@ -80,6 +80,12 @@
     <variable name="testBody" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="coln" value="companion object: mu.NamedKLogging(&quot;$loggerName$&quot;)" description="companion object logger named" toReformat="false" toShortenFQNames="true">
+    <variable name="loggerName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
     </context>
   </template>
 </templateSet>
