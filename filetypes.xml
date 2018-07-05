@@ -2,8 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="dockerfile" type="Dockerfile" />
-      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="XML" />
