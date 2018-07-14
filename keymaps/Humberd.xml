@@ -45,6 +45,9 @@
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="MembersPullUp">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="shift alt 1" />
   </action>
