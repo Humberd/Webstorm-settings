@@ -74,7 +74,9 @@
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
-  <action id="Run" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
