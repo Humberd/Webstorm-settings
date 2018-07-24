@@ -57,7 +57,9 @@
   <action id="NextProjectWindow" />
   <action id="PerforceDirect.Edit" />
   <action id="PreviousProjectWindow" />
-  <action id="RecentFiles" />
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
