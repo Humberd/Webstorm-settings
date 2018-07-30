@@ -4,7 +4,7 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-05-21T11:07:49</property>
+    <property name="modified">2018-07-24T13:58:13</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
@@ -14,11 +14,11 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
@@ -737,7 +737,6 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="GHERKIN_PYSTRING">
       <value>
         <option name="FOREGROUND" value="e6db74" />
@@ -11990,6 +11989,9 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -12118,6 +12120,9 @@
         <option name="FOREGROUND" value="ae81ff" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.SUPERSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -12230,6 +12235,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -12245,6 +12253,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -17017,6 +17028,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -17032,6 +17046,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -17151,6 +17168,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -17166,6 +17186,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -17279,6 +17302,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -17294,6 +17320,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -17406,6 +17435,9 @@
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_TEXT">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_UNDERLINE_MARKER">
       <value>
@@ -22816,6 +22848,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -22831,6 +22866,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -22950,6 +22988,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUPERSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -22965,6 +23006,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -23078,6 +23122,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -23093,6 +23140,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -23205,6 +23255,9 @@
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_TEXT">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD_UNDERLINE_MARKER">
       <value>
@@ -28615,6 +28668,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -28630,6 +28686,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -28749,6 +28808,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -28764,6 +28826,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -28877,6 +28942,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -28892,6 +28960,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -29004,6 +29075,9 @@
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_TEXT">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN_UNDERLINE_MARKER">
       <value>
@@ -34411,6 +34485,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -34426,6 +34503,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -34545,6 +34625,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUPERSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUPERSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -34560,6 +34643,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUPERSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -34673,6 +34759,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -34688,6 +34777,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -34800,6 +34892,9 @@
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_TEXT">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD_UNDERLINE_MARKER">
       <value>
@@ -40210,6 +40305,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -40225,6 +40323,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -40344,6 +40445,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -40359,6 +40463,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -40472,6 +40579,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -40487,6 +40597,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -40599,6 +40712,9 @@
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_TEXT">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN_UNDERLINE_MARKER">
       <value>
@@ -46009,6 +46125,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -46024,6 +46143,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -46143,6 +46265,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUPERSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -46158,6 +46283,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -46271,6 +46399,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -46286,6 +46417,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -46398,6 +46532,9 @@
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_TEXT">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_UNDERLINE_MARKER">
       <value>
@@ -51808,6 +51945,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -51823,6 +51963,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -51942,6 +52085,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -51957,6 +52103,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -52070,6 +52219,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -52085,6 +52237,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -52197,6 +52352,9 @@
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_TEXT">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_UNDERLINE_MARKER">
       <value>
@@ -57607,6 +57765,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -57622,6 +57783,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -57741,6 +57905,9 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUPERSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUPERSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -57756,6 +57923,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUPERSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUPERSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -57869,6 +58039,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT">
+      <value />
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ABBREVIATED_TEXT">
       <value>
         <option name="EFFECT_COLOR" value="366d6" />
@@ -57884,6 +58057,9 @@
       <value>
         <option name="FOREGROUND" value="ae81ff" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ISSUE_MARKER">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_SUPERSCRIPT_TEXT_SUBSCRIPT_TEXT_ITALIC_TEXT">
       <value>
@@ -57996,6 +58172,9 @@
       <value>
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_TEXT">
+      <value />
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CODD_UNDERLINE_MARKER">
       <value>

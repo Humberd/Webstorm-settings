@@ -47,7 +47,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="col" value="companion object: mu.KLogging()" description="companion object logger" toReformat="false" toShortenFQNames="true">
+  <template name="col" value="companion object: KLogging()" description="companion object logger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
@@ -86,6 +86,13 @@
     <variable name="loggerName" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="nic" value="@org.junit.jupiter.api.Nested&#10;inner class $className$ {&#10;    $continue$&#10;}" description="JUnit 5 Nested inner class" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="continue" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
 </templateSet>
