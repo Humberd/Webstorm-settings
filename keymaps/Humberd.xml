@@ -7,9 +7,15 @@
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
+  <action id="ActivatePreviewToolWindow">
+    <keyboard-shortcut first-keystroke="alt 8" />
+  </action>
   <action id="ActivateTODOToolWindow" />
   <action id="AddToFavoritesPopup" />
   <action id="Android.CleanRun" />
+  <action id="Android.HotswapChanges">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
@@ -70,7 +76,9 @@
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
-  <action id="Run" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
