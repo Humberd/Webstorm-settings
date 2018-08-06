@@ -1,6 +1,10 @@
 <application>
   <component name="BitbucketServerRegistry">
-    <instances />
-    <lookup />
+    <instances>
+      <instance uuid="7a5fee31-4dd4-4a66-ab7e-0f134f1e42fc" baseUri="https://git.labs.quest.com/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="git.labs.quest.com" port="-1" path="/" uuid="7a5fee31-4dd4-4a66-ab7e-0f134f1e42fc" />
+    </lookup>
   </component>
 </application>
