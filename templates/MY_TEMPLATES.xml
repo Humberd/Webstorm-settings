@@ -95,4 +95,14 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="be" value="@org.junit.jupiter.api.BeforeEach&#10;fun setUp() {&#10;    $END$&#10;}" description="JUnit 5 Before Each" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="ba" value="@org.junit.jupiter.api.BeforeAll&#10;fun setUpAll() {&#10;    $END$&#10;}" description="JUnit 5 Before All" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
