@@ -105,4 +105,14 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="ae" value="@org.junit.jupiter.api.AfterEach&#10;fun cleanUp() {&#10;    $END$&#10;}" description="JUnit 5 After Each" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="aa" value="@org.junit.jupiter.api.AfterAll&#10;fun cleanUpAll() {&#10;    $END$&#10;}" description="JUnit 5 After All" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
