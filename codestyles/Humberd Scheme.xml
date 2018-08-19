@@ -29,6 +29,7 @@
   </DBN-SQL>
   <HTMLCodeStyleSettings>
     <option name="HTML_ENFORCE_QUOTES" value="true" />
+    <option name="HTML_NEWLINE_AFTER_LAST_ATTRIBUTE" value="When multiline" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
