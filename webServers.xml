@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d2c3d0ae-e752-431a-a231-6a51931b5595" name="intellij@192.168.0.148:22" url="http:///">
+        <fileTransfer host="192.168.0.148" port="22" rootFolder="/home/intellij" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
