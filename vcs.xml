@@ -150,6 +150,10 @@
           <option name="url" value="ssh://git@git.labs.quest.com/dpdr/gvc-ui-customer-subdomain.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Ridecell/web-redux-authentication.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Repositories" />
