@@ -166,6 +166,22 @@
           <option name="url" value="https://bitbucket.org/acaisoft/qs-ui-5.0.1/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.labs.quest.com/dpdr/orbital-ui-netvault.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.labs.quest.com/dpdr/devtools-common.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.labs.quest.com/dpdr/orbital-ui-customer-subdomain.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/therealjing/ngx-datatable.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Repositories" />
