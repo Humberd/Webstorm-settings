@@ -4,7 +4,7 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-07-24T13:58:13</property>
+    <property name="modified">2018-10-04T01:29:15</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
@@ -1266,6 +1266,28 @@
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="LUA_FIELD">
+      <value>
+        <option name="FOREGROUND" value="7abbf8" />
+      </value>
+    </option>
+    <option name="LUA_GLOBAL_VAR">
+      <value>
+        <option name="FOREGROUND" value="7abbf8" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="LUA_LOCAL_VAR">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+      </value>
+    </option>
+    <option name="LUA_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="fd971f" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="List/map to object conversion">
@@ -59741,6 +59763,12 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
+    <option name="OC.ENUM_CONST">
+      <value>
+        <option name="FOREGROUND" value="7abbf8" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="OC.FUNCTION">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -59754,6 +59782,11 @@
     <option name="OC.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="75715e" />
+      </value>
+    </option>
+    <option name="OC.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
     <option name="OC.NUMBER">
@@ -59774,7 +59807,12 @@
     </option>
     <option name="OC.STRUCT_FIELD">
       <value>
-        <option name="FOREGROUND" value="ae81ff" />
+        <option name="FOREGROUND" value="7abbf8" />
+      </value>
+    </option>
+    <option name="OC.STRUCT_LIKE">
+      <value>
+        <option name="FOREGROUND" value="5c86f8" />
       </value>
     </option>
     <option name="OC_FORMAT_TOKEN">
