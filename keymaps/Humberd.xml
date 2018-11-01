@@ -135,6 +135,9 @@
   <action id="TriggerPlayInUnity">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
+  </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt 8" />
   </action>
