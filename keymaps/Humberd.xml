@@ -52,6 +52,9 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
+  </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="InspectCode">
