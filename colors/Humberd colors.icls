@@ -4,7 +4,7 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-11-27T22:27:25</property>
+    <property name="modified">2018-11-29T20:13:18</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
@@ -670,9 +670,30 @@
       </value>
     </option>
     <option name="ELIXIR_ALIAS" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="ELIXIR_BRACKET">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="ELIXIR_DOCUMENTATION_TEXT">
+      <value>
+        <option name="FOREGROUND" value="878787" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="ELIXIR_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
     <option name="ELIXIR_MACRO_CALL" baseAttributes="ELIXIR_FUNCTION_CALL" />
+    <option name="ELIXIR_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="a51da0" />
+      </value>
+    </option>
     <option name="ELIXIR_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="ELIXIR_PARENTHESES">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
     <option name="ELIXIR_PREDEFINED">
       <value>
         <option name="FOREGROUND" value="f92672" />
