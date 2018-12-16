@@ -15,12 +15,4 @@
     </lookup>
   </component>
   <component name="Instance" id="6098ee8d-7f14-4e3d-852b-6e941ddee900" version="6.1" />
-  <component name="UsageLog">
-    <event name="OpenFile" place="MainMenu" timestamp="2018-12-16T11:23:28.406Z">
-      <attribute name="editor">true</attribute>
-      <attribute name="multipleLines">false</attribute>
-      <attribute name="multipleCarets">false</attribute>
-      <attribute name="bitbucket">server</attribute>
-    </event>
-  </component>
 </application>
