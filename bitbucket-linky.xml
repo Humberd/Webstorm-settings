@@ -15,4 +15,9 @@
     </lookup>
   </component>
   <component name="Instance" id="6098ee8d-7f14-4e3d-852b-6e941ddee900" version="6.1" />
+  <component name="UsageLog">
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2018-12-18T12:15:10.789Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+  </component>
 </application>
