@@ -4,7 +4,7 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2018-11-29T20:13:18</property>
+    <property name="modified">2019-01-01T01:38:55</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
@@ -67,6 +67,11 @@
     <option name="BASH.HERE_DOC">
       <value>
         <option name="FOREGROUND" value="9da7a9" />
+      </value>
+    </option>
+    <option name="BASH.INTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="6bbba3" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
