@@ -3,9 +3,10 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="dockerfile" type="Dockerfile" />
+      <mapping pattern="browserslist" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="thml" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping ext="thml" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="mjml" type="XML" />
