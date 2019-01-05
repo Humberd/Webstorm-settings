@@ -2,25 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="dockerfile" type="Dockerfile" />
-      <mapping pattern=".tslintrc" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="thml" type="PLAIN_TEXT" />
-      <mapping ext="der" type="PLAIN_TEXT" />
-      <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
-      <mapping ext="mjml" type="XML" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="*nginx.conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
