@@ -6,13 +6,13 @@
   </component>
   <component name="BitbucketServerRegistry">
     <instances>
-      <instance baseUri="https://git.labs.quest.com:443/" />
-      <instance baseUri="https://git.labs.quest.com:443/" />
+      <instance uuid="7f29d127-5e4b-3e90-88e3-e2efcecbcadd" baseUri="https://git.labs.quest.com:443/" />
+      <instance uuid="7f29d127-5e4b-3e90-88e3-e2efcecbcadd" baseUri="https://git.labs.quest.com:443/" />
     </instances>
     <lookup>
       <record scheme="https" hostname="git.labs.quest.com" port="-1" path="/" uuid="7f29d127-5e4b-3e90-88e3-e2efcecbcadd" />
       <record scheme="ssh" hostname="git.labs.quest.com" port="-1" path="/" uuid="7f29d127-5e4b-3e90-88e3-e2efcecbcadd" />
     </lookup>
   </component>
-  <component name="Instance" id="6098ee8d-7f14-4e3d-852b-6e941ddee900" version="6.1" />
+  <component name="Instance" id="6098ee8d-7f14-4e3d-852b-6e941ddee900" version="6.2" />
 </application>
