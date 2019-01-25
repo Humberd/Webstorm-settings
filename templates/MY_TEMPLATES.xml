@@ -115,4 +115,9 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="orbitalimports" value="@import &quot;~src/assets/styles/orbital/colors&quot;;&#10;@import &quot;~src/assets/styles/orbital/sizes&quot;;" description="Default imports for scss" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
 </templateSet>
