@@ -29,9 +29,11 @@
   </DBN-SQL>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,s" />
+    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
@@ -76,7 +78,7 @@
       <pair source="c" header="h" />
     </extensions>
   </Objective-C-extensions>
-  <TypeScriptCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
