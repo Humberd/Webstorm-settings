@@ -153,9 +153,6 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
-  <action id="UpdateRunningApplication">
-    <keyboard-shortcut first-keystroke="shift ctrl f5" />
-  </action>
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
