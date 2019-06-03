@@ -26,6 +26,10 @@
           <option name="url" value="https://gitlab.com/hacking-carrots/console" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/hacking-carrots/console.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Repositories" />
