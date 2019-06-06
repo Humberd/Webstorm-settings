@@ -1,5 +1,5 @@
 <templateSet group="MY_TEMPLATES">
-  <template name="log" value="console.log($code$);" description="console.log()" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="console.log($code$)" description="console.log()" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -20,21 +20,21 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="error" value="console.error($code$);" description="console.error()" toReformat="false" toShortenFQNames="true">
+  <template name="error" value="console.error($code$)" description="console.error()" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="info" value="console.info($code$);" description="console.info()" toReformat="false" toShortenFQNames="true">
+  <template name="info" value="console.info($code$)" description="console.info()" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="dir" value="console.dir($code$);" description="console.dir()" toReformat="false" toShortenFQNames="true">
+  <template name="dir" value="console.dir($code$)" description="console.dir()" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -80,6 +80,64 @@
     <variable name="testBody" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="coln" value="companion object: mu.NamedKLogging(&quot;$loggerName$&quot;)" description="companion object logger named" toReformat="false" toShortenFQNames="true">
+    <variable name="loggerName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="nic" value="@org.junit.jupiter.api.Nested&#10;inner class $className$ {&#10;    $continue$&#10;}" description="JUnit 5 Nested inner class" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="continue" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="be" value="@org.junit.jupiter.api.BeforeEach&#10;fun setUp() {&#10;    $END$&#10;}" description="JUnit 5 Before Each" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="ba" value="@org.junit.jupiter.api.BeforeAll&#10;fun setUpAll() {&#10;    $END$&#10;}" description="JUnit 5 Before All" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="ae" value="@org.junit.jupiter.api.AfterEach&#10;fun cleanUp() {&#10;    $END$&#10;}" description="JUnit 5 After Each" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="aa" value="@org.junit.jupiter.api.AfterAll&#10;fun cleanUpAll() {&#10;    $END$&#10;}" description="JUnit 5 After All" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="orbitalimports" value="@import &quot;~src/assets/styles/orbital/colors-new&quot;;&#10;@import &quot;~src/assets/styles/orbital/sizes&quot;;" description="Default imports for scss" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="dlog" value="Debug.Log($code$);" description="Unity debug log" toReformat="false" toShortenFQNames="true">
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
     </context>
   </template>
 </templateSet>
