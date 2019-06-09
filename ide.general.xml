@@ -14,4 +14,7 @@
     <entry key="ide.win.file.chooser.native" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
   </component>
+  <component name="Registry">
+    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+  </component>
 </application>
