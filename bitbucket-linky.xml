@@ -16,7 +16,13 @@
   </component>
   <component name="Instance" id="6098ee8d-7f14-4e3d-852b-6e941ddee900" version="7.1" />
   <component name="UsageLog">
-    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-06-12T14:27:49.135Z">
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-06-13T07:05:55.540Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-06-13T07:11:14.697Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-06-13T07:20:17.931Z">
       <attribute name="bitbucket">server</attribute>
     </event>
   </component>
