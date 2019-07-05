@@ -19,5 +19,8 @@
     <event name="CreatePullRequest" place="MainMenu" timestamp="2019-07-05T07:51:55.839Z">
       <attribute name="bitbucket">server</attribute>
     </event>
+    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-07-05T08:04:28.967Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
   </component>
 </application>
