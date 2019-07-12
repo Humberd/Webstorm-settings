@@ -15,24 +15,4 @@
     </lookup>
   </component>
   <component name="Instance" id="6098ee8d-7f14-4e3d-852b-6e941ddee900" version="7.1" />
-  <component name="UsageLog">
-    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-07-12T10:03:10.979Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-07-12T10:08:52.670Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-07-12T10:10:34.504Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-07-12T10:10:48.906Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-07-12T10:14:12.942Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-    <event name="CreatePullRequest" place="MainMenu" timestamp="2019-07-12T10:14:47.471Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-  </component>
 </application>
