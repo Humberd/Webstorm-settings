@@ -7,6 +7,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="sap" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".dvwignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".nginx.conf" type="PLAIN_TEXT" />
