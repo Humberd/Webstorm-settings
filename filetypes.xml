@@ -18,8 +18,8 @@
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="lml" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
