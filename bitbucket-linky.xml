@@ -19,5 +19,8 @@
     <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2019-08-05T13:11:20.965715900Z">
       <attribute name="bitbucket">server</attribute>
     </event>
+    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2019-08-05T13:26:25.562451400Z">
+      <attribute name="bitbucket">server</attribute>
+    </event>
   </component>
 </application>
