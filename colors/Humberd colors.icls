@@ -4,7 +4,7 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2019-06-14T22:34:19</property>
+    <property name="modified">2019-08-02T19:30:06</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
@@ -61126,6 +61126,11 @@
       <value>
         <option name="FOREGROUND" value="d4e23f" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="BACKGROUND" value="465444" />
       </value>
     </option>
     <option name="TYPEDEF">
