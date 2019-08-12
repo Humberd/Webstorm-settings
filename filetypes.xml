@@ -10,16 +10,16 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".dvwignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".nginx.conf" type="PLAIN_TEXT" />
       <mapping pattern=".fvwignore" type="PLAIN_TEXT" />
+      <mapping pattern=".nginx.conf" type="PLAIN_TEXT" />
       <mapping ext="__extension__" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="lml" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
