@@ -30,9 +30,13 @@
           <option name="url" value="https://maciejsawicki@bitbucket.org/PiotrPrzekaza/reactjsrecrutmenttask.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://maciejsawicki@bitbucket.org/acaisoft/att-events-portal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Repositories\zadanka" />
+    <option name="cloneParentDir" value="D:\Repositories" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
