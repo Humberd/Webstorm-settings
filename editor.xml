@@ -9,5 +9,7 @@
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
   </component>
-  <component name="LiveEditOptions" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true" />
+  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" useJBChromeExtension="true">
+    <option name="elementHighlighting" value="true" />
+  </component>
 </application>
