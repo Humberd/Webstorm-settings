@@ -8,18 +8,19 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="sap" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern=".nginx.conf" type="PLAIN_TEXT" />
       <mapping pattern=".dvwignore" type="PLAIN_TEXT" />
       <mapping pattern=".fvwignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="__extension__" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
-      <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping ext="__extension__" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping ext="lml" type="XML" />
       <mapping ext="xlf" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
