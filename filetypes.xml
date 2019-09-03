@@ -3,12 +3,13 @@
     <extensionMap>
       <mapping ext="lss" type="CSS" />
       <mapping ext="dockerfile" type="Dockerfile" />
-      <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="sap" type="JSON" />
-      <mapping pattern=".fvwignore" type="PLAIN_TEXT" />
       <mapping pattern=".nginx.conf" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".dvwignore" type="PLAIN_TEXT" />
+      <mapping pattern=".fvwignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
@@ -22,9 +23,9 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="default.conf" type="nginx file type" />
     </extensionMap>
   </component>
