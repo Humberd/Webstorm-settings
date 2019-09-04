@@ -3,43 +3,61 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
+          <option name="url" value="https://dev.azure.com/gvcdev/ui-component/_git/ui-component" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="maciejsawicki" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://git.labs.quest.com" />
-          <option name="userName" value="maciej.sawicki@quest.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://git.labs.quest.com/scm/dpdr/cdp-api.git" />
+          <option name="url" value="https://bitbucket.org/acaisoft/rman-wrapper.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://git.labs.quest.com/scm/dpdr/qs-new-ui.git" />
+          <option name="url" value="https://bitbucket.org/acaisoft/recrutation-angular.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.com" />
-          <option name="userName" value="Humberd" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/hacking-carrots/console" />
+          <option name="url" value="https://github.com/Humberd/notes-app-front.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitlab.com/hacking-carrots/console.git" />
+          <option name="url" value="https://github.com/Humberd/notes-app-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="humberd" />
+          <option name="url" value="https://maciejsawicki@bitbucket.org/PiotrPrzekaza/reactjsrecrutmenttask.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://maciejsawicki@bitbucket.org/acaisoft/att-events-portal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.labs.quest.com/scm/dpdr/gvc-ui-customer-subdomain.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gvcdev@dev.azure.com/gvcdev/ui-component/_git/ui-component" />
+          <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Repositories" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_TAG_NAMES" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="D:/stuff" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
