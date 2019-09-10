@@ -42,6 +42,10 @@
           <option name="url" value="https://gvcdev@dev.azure.com/gvcdev/ui-component/_git/ui-component" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.labs.quest.com/scm/dpdr/global-cloud-view-portal.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Repositories" />
