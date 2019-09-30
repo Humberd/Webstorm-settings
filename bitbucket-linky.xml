@@ -15,12 +15,4 @@
     </lookup>
   </component>
   <component name="Instance" id="6098ee8d-7f14-4e3d-852b-6e941ddee900" version="7.4" />
-  <component name="UsageLog">
-    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2019-09-27T13:05:59.198681Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-    <event name="CreatePullRequest" place="keyboard shortcut" timestamp="2019-09-27T13:33:35.722162700Z">
-      <attribute name="bitbucket">server</attribute>
-    </event>
-  </component>
 </application>
