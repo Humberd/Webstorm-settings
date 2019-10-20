@@ -140,4 +140,9 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="$destroy" value="@Destroy$() private readonly destroy$ = new Subject();" description="Creates a destroy Subject" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
