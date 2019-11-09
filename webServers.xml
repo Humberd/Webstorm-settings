@@ -1,9 +1,12 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="d2c3d0ae-e752-431a-a231-6a51931b5595" name="intellij@192.168.0.148:22" url="http:///">
-        <fileTransfer host="192.168.0.148" port="22" rootFolder="/home/intellij" accessType="SFTP">
-          <option name="port" value="22" />
+      <webServer id="3d5bde1b-40e5-490f-9d2b-6ce1f3d39e17" name="hackyeah2019" url="http://77.46.91.14">
+        <fileTransfer host="77.46.91.14" port="22222" privateKey="C:\Users\Sawik\.ssh\id_rsa" rootFolder="/home/mjadczuk/Workspace/govtech2019" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22222" />
         </fileTransfer>
       </webServer>
     </option>
