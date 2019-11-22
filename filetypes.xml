@@ -4,9 +4,16 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
       <mapping pattern=".listing" type="PLAIN_TEXT" />
       <mapping pattern=".env-prod" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping pattern=".viminfo" type="PLAIN_TEXT" />
+      <mapping pattern=".profile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
+      <mapping pattern="kubeconfig" type="PLAIN_TEXT" />
       <mapping ext="pak" type="PLAIN_TEXT" />
       <mapping ext="todo" type="PLAIN_TEXT" />
     </extensionMap>
