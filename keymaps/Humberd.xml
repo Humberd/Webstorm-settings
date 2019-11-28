@@ -153,6 +153,7 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
+  <action id="UpdateRunningApplication" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
@@ -160,5 +161,11 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="liveedit.UpdateRunningApplication" />
 </keymap>
