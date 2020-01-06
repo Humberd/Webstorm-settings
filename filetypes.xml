@@ -1,23 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="thml" type="PLAIN_TEXT" />
-      <mapping ext="der" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
-      <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
-      <mapping ext="mjml" type="XML" />
-      <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="pkb" type="DBN-PSQL" />
-      <mapping ext="pkg" type="DBN-PSQL" />
-      <mapping ext="pks" type="DBN-PSQL" />
-      <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="tpb" type="DBN-PSQL" />
-      <mapping ext="tpe" type="DBN-PSQL" />
-      <mapping ext="tps" type="DBN-PSQL" />
-      <mapping ext="trg" type="DBN-PSQL" />
-      <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="*nginx.conf" type="nginx file type" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
+      <mapping pattern=".listing" type="PLAIN_TEXT" />
+      <mapping pattern=".env-prod" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping pattern=".viminfo" type="PLAIN_TEXT" />
+      <mapping pattern=".profile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_logout" type="PLAIN_TEXT" />
+      <mapping pattern="kubeconfig" type="PLAIN_TEXT" />
+      <mapping ext="pak" type="PLAIN_TEXT" />
+      <mapping ext="todo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

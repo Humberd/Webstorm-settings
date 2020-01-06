@@ -1,5 +1,5 @@
 <templateSet group="MY_TEMPLATES">
-  <template name="log" value="console.log($code$);" description="console.log()" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="console.log($code$)" description="console.log()" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -20,21 +20,21 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="error" value="console.error($code$);" description="console.error()" toReformat="false" toShortenFQNames="true">
+  <template name="error" value="console.error($code$)" description="console.error()" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="info" value="console.info($code$);" description="console.info()" toReformat="false" toShortenFQNames="true">
+  <template name="info" value="console.info($code$)" description="console.info()" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="dir" value="console.dir($code$);" description="console.dir()" toReformat="false" toShortenFQNames="true">
+  <template name="dir" value="console.dir($code$)" description="console.dir()" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -113,6 +113,36 @@
   <template name="aa" value="@org.junit.jupiter.api.AfterAll&#10;fun cleanUpAll() {&#10;    $END$&#10;}" description="JUnit 5 After All" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="orbitalimports" value="@import &quot;~src/assets/styles/orbital/colors-new&quot;;&#10;@import &quot;~src/assets/styles/orbital/sizes&quot;;" description="Default imports for scss" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="dlog" value="Debug.Log($code$);" description="Unity debug log" toReformat="false" toShortenFQNames="true">
+    <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="$destroy" value="@Destroy$() private readonly destroy$ = new Subject();" description="Creates a destroy Subject" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>

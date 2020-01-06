@@ -46,11 +46,20 @@
   <action id="EditorIncreaseFontSize">
     <mouse-shortcut keystroke="control button143" />
   </action>
+  <action id="EditorScrollBottom">
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl alt back_quote" />
   </action>
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
@@ -135,12 +144,16 @@
   <action id="TriggerPlayInUnity">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt comma" />
+  </action>
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="ctrl alt 8" />
   </action>
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UML.ApplyCurrentLayout" />
   <action id="Uml.ShowDiff" />
+  <action id="UpdateRunningApplication" />
   <action id="UsageView.ShowRecentFindUsages" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
@@ -148,5 +161,11 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="liveedit.UpdateRunningApplication" />
 </keymap>
