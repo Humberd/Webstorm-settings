@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="77.46.91.14" id="bf721af8-5bb6-46dc-a9df-b971dd69067e" keyPath="C:\Users\Sawik\.ssh\id_rsa" port="22222" username="mjadczuk" />
+      <sshConfig authType="PASSWORD" host="localhost" id="c4dee264-06d1-4200-99ec-5a582c09eedb" port="22" />
+      <sshConfig authType="PASSWORD" host="localhost" id="79ab3f7b-eb75-4f36-a199-2d7508d0d859" port="22" />
+    </configs>
+  </component>
+</application>
