@@ -13,6 +13,8 @@
       <sshConfig authType="PASSWORD" host="localhost" id="ec1e8aa9-c9f5-4d57-bf51-86b68a2ddbc0" port="22" customName="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="localhost" id="59186992-de2d-4ada-ae41-2139abb9f4ff" port="22" customName="WSL (d9e47fba-9b72-482e-9aa7-17d391a0b7cd)" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="localhost" id="ee581812-7b3f-4099-b924-b35795ac7db0" port="22" customName="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="32bba042-788f-4c5f-9306-1d4a0514d452" port="22" customName="WSL (d9e47fba-9b72-482e-9aa7-17d391a0b7cd)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="19408383-562c-421c-850b-0b4a30557fbf" port="22" customName="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
