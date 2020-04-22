@@ -1,9 +1,24 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="77.46.91.14" id="f0e22807-8758-4cd5-b1bc-be5c4e930d5d" keyPath="C:\Users\Sawik\.ssh\id_rsa" port="22222" customName="hackyeah2019" nameFormat="CUSTOM" />
-      <sshConfig authType="PASSWORD" host="localhost" id="d0ea2898-dd01-42ef-964f-06840bef9671" port="22" customName="WSL (d9e47fba-9b72-482e-9aa7-17d391a0b7cd)" nameFormat="CUSTOM" username="idea" />
-      <sshConfig authType="PASSWORD" host="localhost" id="2e21351c-959d-4a58-9e47-df524d19b89f" port="22" customName="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" nameFormat="CUSTOM" username="idea" />
+      <sshConfig host="77.46.91.14" id="bf721af8-5bb6-46dc-a9df-b971dd69067e" keyPath="C:\Users\Sawik\.ssh\id_rsa" port="22222" username="mjadczuk" />
+      <sshConfig authType="PASSWORD" host="localhost" id="c4dee264-06d1-4200-99ec-5a582c09eedb" port="22" />
+      <sshConfig authType="PASSWORD" host="localhost" id="79ab3f7b-eb75-4f36-a199-2d7508d0d859" port="22" />
+      <sshConfig authType="PASSWORD" host="localhost" id="ab8acc37-930f-4977-bd6e-30344cc4ffd6" port="22" />
+      <sshConfig authType="PASSWORD" host="localhost" id="704c4460-a69f-4de7-8428-cdf1d1f9f65f" port="22" />
+      <sshConfig host="77.46.91.14" id="4af3aeaf-e89e-4e06-b2dd-8bfd55f4826c" keyPath="C:\Users\Sawik\.ssh\id_rsa" port="22222" customName="hackyeah2019" nameFormat="CUSTOM" username="mjadczuk" />
+      <sshConfig authType="PASSWORD" host="localhost" id="7fd8afa4-9363-4a52-973a-01d080e575d7" port="22" customName="WSL (d9e47fba-9b72-482e-9aa7-17d391a0b7cd)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="4dbe3e90-e3a2-4c3a-bae2-c80e80378ed4" port="22" customName="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="49150c75-8fe5-4a69-900a-2f6b05f9c9b3" port="22" customName="WSL (d9e47fba-9b72-482e-9aa7-17d391a0b7cd)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="ec1e8aa9-c9f5-4d57-bf51-86b68a2ddbc0" port="22" customName="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="59186992-de2d-4ada-ae41-2139abb9f4ff" port="22" customName="WSL (d9e47fba-9b72-482e-9aa7-17d391a0b7cd)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="ee581812-7b3f-4099-b924-b35795ac7db0" port="22" customName="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="32bba042-788f-4c5f-9306-1d4a0514d452" port="22" customName="WSL (d9e47fba-9b72-482e-9aa7-17d391a0b7cd)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="19408383-562c-421c-850b-0b4a30557fbf" port="22" customName="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="dcc5e299-80ce-4be1-8eea-414225304b14" port="22" customName="WSL (d9e47fba-9b72-482e-9aa7-17d391a0b7cd)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="99abf995-5d49-4718-892e-510956f9fa7e" port="22" customName="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="d43ea7a3-4366-4d81-8e6c-3056c9e59d1e" port="22" customName="WSL (d9e47fba-9b72-482e-9aa7-17d391a0b7cd)" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="localhost" id="a3c7a6ca-0658-4d6f-8335-46947f806a54" port="22" customName="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
