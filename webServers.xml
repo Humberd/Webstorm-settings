@@ -2,22 +2,17 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="3d5bde1b-40e5-490f-9d2b-6ce1f3d39e17" name="hackyeah2019" url="http://77.46.91.14">
-        <fileTransfer host="77.46.91.14" port="22222" privateKey="C:\Users\Sawik\.ssh\id_rsa" rootFolder="/home/mjadczuk/Workspace/govtech2019" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/home/mjadczuk/Workspace/govtech2019" accessType="SFTP" sshConfigId="f0e22807-8758-4cd5-b1bc-be5c4e930d5d" sshConfig="hackyeah2019">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22222" />
         </fileTransfer>
       </webServer>
       <webServer id="d9e47fba-9b72-482e-9aa7-17d391a0b7cd" name="WSL (d9e47fba-9b72-482e-9aa7-17d391a0b7cd)" url="http:///">
-        <fileTransfer host="localhost" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer accessType="SFTP" sshConfigId="d0ea2898-dd01-42ef-964f-06840bef9671" sshConfig="WSL (d9e47fba-9b72-482e-9aa7-17d391a0b7cd)" />
       </webServer>
       <webServer id="5af0e67c-1003-452d-9e2f-a088d45d11c3" name="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" url="http:///">
-        <fileTransfer host="localhost" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
+        <fileTransfer accessType="SFTP" sshConfigId="2e21351c-959d-4a58-9e47-df524d19b89f" sshConfig="WSL (5af0e67c-1003-452d-9e2f-a088d45d11c3)" />
       </webServer>
     </option>
   </component>
