@@ -168,4 +168,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
   <action id="liveedit.UpdateRunningApplication" />
+  <action id="ngxQuickSwitch.QuickSwitch">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
 </keymap>
