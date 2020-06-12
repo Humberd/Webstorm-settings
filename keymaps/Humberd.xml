@@ -173,6 +173,9 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
   </action>
+  <action id="jetbrains.mps.ide.make.actions.RebuildSelectedModules_Action">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
   <action id="liveedit.UpdateRunningApplication" />
   <action id="ngxQuickSwitch.QuickSwitch">
     <keyboard-shortcut first-keystroke="alt d" />
