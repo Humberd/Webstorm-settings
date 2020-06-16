@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list=".dependency-info;CVS;" />
     <extensionMap>
+      <removed_mapping ext="tagx" type="JSPX" />
+      <removed_mapping ext="jspx" type="JSPX" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="jspx" type="XML" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="tagx" type="XML" />
     </extensionMap>
   </component>
