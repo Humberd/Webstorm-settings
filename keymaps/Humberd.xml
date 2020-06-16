@@ -35,6 +35,7 @@
   <action id="CodeCleanup">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="CompileDirty" />
   <action id="CopyElement" />
   <action id="DebugClass">
     <keyboard-shortcut first-keystroke="shift ctrl alt f10" />
@@ -172,6 +173,21 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+  <action id="jetbrains.mps.ide.editor.actions.SelectUp_Action">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="jetbrains.mps.ide.make.actions.MakeProject_Action">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
+  <action id="jetbrains.mps.ide.make.actions.MakeSelectedModules_Action" />
+  <action id="jetbrains.mps.ide.make.actions.RebuildProject_Action">
+    <keyboard-shortcut first-keystroke="ctrl alt f9" />
+  </action>
+  <action id="jetbrains.mps.ide.make.actions.RebuildSelectedModules_Action">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
   </action>
   <action id="liveedit.UpdateRunningApplication" />
   <action id="ngxQuickSwitch.QuickSwitch">
