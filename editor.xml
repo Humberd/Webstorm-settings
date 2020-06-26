@@ -1,9 +1,14 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
+  </component>
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" useJBChromeExtension="true" />
   <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
 </application>
