@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/hammerjs/hammer.js" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Auscent/Tibia-11-SpriteDump.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Repositories" />
