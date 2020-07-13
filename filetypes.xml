@@ -5,6 +5,7 @@
       <removed_mapping ext="tagx" approved="true" type="JSPX" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="tagx" type="PLAIN_TEXT" />
       <removed_mapping ext="tagx" approved="true" type="JSPX" />
     </extensionMap>
