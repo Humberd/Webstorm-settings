@@ -1,18 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list=".dependency-info;CVS;" />
     <extensionMap>
+      <removed_mapping ext="tagx" approved="true" type="JSPX" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern=".viminfo" type="PLAIN_TEXT" />
-      <mapping pattern="kubeconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".env-prod" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
-      <mapping pattern=".sudo_as_admin_successful" type="PLAIN_TEXT" />
-      <mapping pattern=".listing" type="PLAIN_TEXT" />
-      <mapping ext="pak" type="PLAIN_TEXT" />
-      <mapping ext="todo" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="tagx" type="PLAIN_TEXT" />
+      <removed_mapping ext="tagx" approved="true" type="JSPX" />
     </extensionMap>
   </component>
 </application>

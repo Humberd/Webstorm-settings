@@ -1,6 +1,15 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
-    <option name="supportScreenReaders" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="async.project.view.collapse.tree.path.recursively" value="true" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
   </component>
 </application>
