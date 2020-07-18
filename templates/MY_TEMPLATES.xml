@@ -145,4 +145,11 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="shallow" value="import { async } from '@angular/core/testing';&#10;import { Shallow } from 'shallow-render';&#10;&#10;describe($componentName$.name, () =&gt; {&#10;    let shallow: Shallow&lt;$componentName$&gt;;&#10;&#10;    beforeEach(async(() =&gt; {&#10;        shallow = new Shallow($componentName$, $moduleName$);&#10;    }));&#10;&#10;    it('should create', async () =&gt; {&#10;        const { instance } = await shallow.render();&#10;        expect(instance).toBeTruthy();&#10;    });&#10;});&#10;" description="Create a shallow test" toReformat="false" toShortenFQNames="true">
+    <variable name="componentName" expression="capitalize(camelCase(substringBefore(fileNameWithoutExtension(), &quot;.spec&quot;)))" defaultValue="" alwaysStopAt="true" />
+    <variable name="moduleName" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
