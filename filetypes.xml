@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list=".dependency-info;CVS;" />
     <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
       <removed_mapping ext="tagx" approved="true" type="JSPX" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
