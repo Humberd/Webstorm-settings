@@ -4,7 +4,7 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2020-08-23T19:43:22</property>
+    <property name="modified">2020-09-12T22:53:39</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
@@ -1057,7 +1057,6 @@
         <option name="FOREGROUND" value="7abbf8" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.OPERATION_SIGN">
       <value>
         <option name="FOREGROUND" value="f92672" />
