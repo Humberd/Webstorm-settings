@@ -6,6 +6,11 @@
         <option value="Polish" />
       </set>
     </option>
+    <option name="userDisabledRules">
+      <set>
+        <option value="PASSIVE_VOICE" />
+      </set>
+    </option>
     <option name="userEnabledRules">
       <set>
         <option value="UPPERCASE_SENTENCE_START" />
@@ -16,6 +21,7 @@
         <option name="suppressed">
           <set>
             <option value="callbacks are configured" />
+            <option value="config is consumed" />
           </set>
         </option>
       </SuppressingContext>
