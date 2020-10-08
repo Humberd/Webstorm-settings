@@ -1,0 +1,22 @@
+<application>
+  <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Polish" />
+      </set>
+    </option>
+    <option name="enabledGrammarStrategies">
+      <set>
+        <option value="nl.rubensten.texifyidea:Latex" />
+        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
+        <option value="tanvd.grazi:TEXT" />
+      </set>
+    </option>
+    <option name="userEnabledRules">
+      <set>
+        <option value="UPPERCASE_SENTENCE_START" />
+      </set>
+    </option>
+  </component>
+</application>
