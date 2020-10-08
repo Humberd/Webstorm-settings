@@ -14,6 +14,7 @@
     <option name="userEnabledRules">
       <set>
         <option value="UPPERCASE_SENTENCE_START" />
+        <option value="LITTLE_BIT" />
       </set>
     </option>
     <option name="suppressingContext">
@@ -21,6 +22,7 @@
         <option name="suppressed">
           <set>
             <option value="model that looks" />
+            <option value="little bit" />
           </set>
         </option>
       </SuppressingContext>
