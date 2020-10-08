@@ -6,11 +6,9 @@
         <option value="Polish" />
       </set>
     </option>
-    <option name="enabledGrammarStrategies">
+    <option name="userDisabledRules">
       <set>
-        <option value="nl.rubensten.texifyidea:Latex" />
-        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
-        <option value="tanvd.grazi:TEXT" />
+        <option value="PASSIVE_VOICE" />
       </set>
     </option>
     <option name="userEnabledRules">
