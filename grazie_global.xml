@@ -13,16 +13,17 @@
     </option>
     <option name="userEnabledRules">
       <set>
-        <option value="UPPERCASE_SENTENCE_START" />
         <option value="LITTLE_BIT" />
+        <option value="UPPERCASE_SENTENCE_START" />
       </set>
     </option>
     <option name="suppressingContext">
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="model that looks" />
             <option value="little bit" />
+            <option value="model that looks" />
+            <option value="the expand" />
           </set>
         </option>
       </SuppressingContext>
