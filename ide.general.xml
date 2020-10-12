@@ -5,7 +5,7 @@
   </component>
   <component name="Registry">
     <entry key="async.project.view.collapse.tree.path.recursively" value="true" />
-    <entry key="editor.distraction.free.mode" value="true" />
+    <entry key="documentation.show.toolbar" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
