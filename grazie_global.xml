@@ -13,7 +13,6 @@
     </option>
     <option name="userEnabledRules">
       <set>
-        <option value="LITTLE_BIT" />
         <option value="UPPERCASE_SENTENCE_START" />
       </set>
     </option>
@@ -21,9 +20,8 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="little bit" />
-            <option value="model that looks" />
-            <option value="the expand" />
+            <option value="callbacks are configured" />
+            <option value="config is consumed" />
           </set>
         </option>
       </SuppressingContext>
