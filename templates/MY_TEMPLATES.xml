@@ -152,4 +152,9 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="spsActionItemDefintion" value="import { Injectable } from '@angular/core';&#10;import { ActionDefinitionMenu } from '@app/modules/action-definition/models/action-definition-menu';&#10;import { ActionItemDefinition } from '@app/modules/action-definition/models/action-item-definition';&#10;&#10;@Injectable({providedIn: 'root'})&#10;export class JobAssetsReviewAction extends ActionItemDefinition&lt;JobAssetsReviewActionParams&gt; {&#10;    invoke(params: JobAssetsReviewActionParams): any {&#10;    }&#10;&#10;    protected getMenu(): ActionDefinitionMenu {&#10;        return {&#10;            &#10;        };&#10;    }&#10;}&#10;" description="Creates action item defintion for sps" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
