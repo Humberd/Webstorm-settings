@@ -9,6 +9,7 @@
       <mapping ext="tagx" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping ext="tagx" approved="true" type="JSPX" />
+      <removed_mapping ext="html" approved="true" type="Go Template" />
     </extensionMap>
   </component>
 </application>
