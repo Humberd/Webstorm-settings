@@ -8,5 +8,6 @@
     <mask>html</mask>
     <mask>!.html</mask>
     <mask>!.spec.ts</mask>
+    <mask>!.stories.ts</mask>
   </component>
 </application>
