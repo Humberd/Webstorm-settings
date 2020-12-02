@@ -3,7 +3,6 @@
     <ignoreFiles list=".dependency-info;CVS;" />
     <extensionMap>
       <mapping ext="njk" type="HTML" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="__shallowTestFileName__" type="PLAIN_TEXT" />
