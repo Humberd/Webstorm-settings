@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <ignoreFiles list=".dependency-info;CVS;" />
     <extensionMap>
       <mapping ext="njk" type="HTML" />
@@ -8,8 +8,8 @@
       <mapping pattern="__shallowTestFileName__" type="PLAIN_TEXT" />
       <mapping ext="tagx" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <removed_mapping ext="tagx" approved="true" type="JSPX" />
       <removed_mapping ext="html" approved="true" type="Go Template" />
+      <removed_mapping ext="tagx" approved="true" type="JSPX" />
     </extensionMap>
   </component>
 </application>
