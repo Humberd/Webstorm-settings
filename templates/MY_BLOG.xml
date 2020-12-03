@@ -1,0 +1,15 @@
+<templateSet group="MY_BLOG">
+  <template name="img" value="{{&lt; img src=&quot;$src$&quot; alt=&quot;$alt$&quot; &gt;}}" description="Smart Image" toReformat="false" toShortenFQNames="true">
+    <variable name="src" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="alt" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="MARKDOWN" value="true" />
+    </context>
+  </template>
+  <template name="github" value="{{&lt; github &quot;$url$&quot; &gt;}}&#10;" description="GitHub" toReformat="false" toShortenFQNames="true">
+    <variable name="url" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="MARKDOWN" value="true" />
+    </context>
+  </template>
+</templateSet>
