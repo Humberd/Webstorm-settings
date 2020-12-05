@@ -2507,6 +2507,11 @@
                       <FeaturePluginData displayName="Groovy" pluginName="Groovy" pluginId="org.intellij.groovy" />
                     </value>
                   </entry>
+                  <entry key="HUGO_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Hugo" pluginName="Hugo Integration" pluginId="com.1v0.dev.hugo-intellij-plugin" />
+                    </value>
+                  </entry>
                   <entry key="HttpClient.HttpRequestRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="HTTP Request" pluginName="HTTP Client" pluginId="com.jetbrains.restClient" />
