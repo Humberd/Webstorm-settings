@@ -7,13 +7,13 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="__shallowTestFileName__" type="PLAIN_TEXT" />
       <mapping ext="tagx" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="html" approved="true" type="Go Template" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <removed_mapping ext="tagx" approved="true" type="JSPX" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
