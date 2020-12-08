@@ -20,8 +20,8 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="config is consumed" />
             <option value="callbacks are configured" />
+            <option value="config is consumed" />
           </set>
         </option>
       </SuppressingContext>
