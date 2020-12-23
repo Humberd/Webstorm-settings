@@ -102,6 +102,10 @@
           <option name="url" value="https://github.com/gohugoio/hugoDocs" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/grafana/tutorial-environment" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Repositories" />
