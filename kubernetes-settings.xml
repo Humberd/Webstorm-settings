@@ -1,0 +1,9 @@
+<application>
+  <component name="KubernetesSettings">
+    <specSources>
+      <SpecSource>
+        <option name="pathOrUrl" value="https://github.com/jetstack/cert-manager/releases/download/v1.1.0/cert-manager.crds.yaml" />
+      </SpecSource>
+    </specSources>
+  </component>
+</application>
