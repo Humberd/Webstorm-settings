@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list=".dependency-info;CVS;" />
     <extensionMap>
+      <mapping pattern="__templateFileName__" type="AUTO_DETECTED" />
       <mapping ext="njk" type="HTML" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
