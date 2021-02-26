@@ -144,6 +144,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="gdscript" />
+              <option name="myPluginName" value="GDScript" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.cfignore">
           <value>
             <plugin>
@@ -628,6 +636,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.gd">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="gdscript" />
+              <option name="myPluginName" value="GDScript" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.gdsl">
           <value>
             <plugin>
@@ -668,6 +684,14 @@
             <plugin>
               <option name="myPluginId" value="org.jetbrains.plugins.go" />
               <option name="myPluginName" value="Go" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.godot">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="gdscript" />
+              <option name="myPluginName" value="GDScript" />
             </plugin>
           </value>
         </entry>
@@ -861,6 +885,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.import">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="gdscript" />
+              <option name="myPluginName" value="GDScript" />
             </plugin>
           </value>
         </entry>
@@ -1976,6 +2008,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.tres">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="gdscript" />
+              <option name="myPluginName" value="GDScript" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.trg">
           <value>
             <plugin>
@@ -1990,6 +2030,14 @@
               <option name="myPluginId" value="JavaScript" />
               <option name="myPluginName" value="JavaScript and TypeScript" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tscn">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="gdscript" />
+              <option name="myPluginName" value="GDScript" />
             </plugin>
           </value>
         </entry>
@@ -3129,6 +3177,11 @@
                   <entry key="docker-deploy">
                     <value>
                       <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="godotConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Godot" pluginName="GDScript" pluginId="gdscript" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
