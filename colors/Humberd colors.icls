@@ -4,12 +4,12 @@
     <property name="created">2017-05-15T21:55:25</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2020-06-01T10:25:01</property>
+    <property name="modified">2021-02-26T20:44:00</property>
     <property name="originalScheme">Monokai my copy</property>
     <property name="rainbow JAVA">false</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -31,7 +31,7 @@
     <option name="LINE_NUMBERS_COLOR" value="f8f8f2" />
     <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
     <option name="SELECTION_BACKGROUND" value="49483e" />
-    <option name="WHITESPACES" value="3b3a32" />
+    <option name="WHITESPACES" value="535353" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -765,6 +765,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GDSCRIPT_NODE">
+      <value>
+        <option name="FOREGROUND" value="d7d76f" />
+        <option name="BACKGROUND" value="272822" />
+      </value>
+    </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="EFFECT_COLOR" value="aa4e00" />
@@ -1094,6 +1100,12 @@
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="FOREGROUND" value="b4deea" />
+        <option name="BACKGROUND" value="3c3f41" />
       </value>
     </option>
     <option name="KDOC_LINK">
@@ -61157,6 +61169,7 @@
     </option>
     <option name="TYPO">
       <value>
+        <option name="EFFECT_COLOR" value="77d983" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
