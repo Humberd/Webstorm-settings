@@ -3962,6 +3962,11 @@
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" />
                     </value>
                   </entry>
+                  <entry key="GODOT_DEBUG_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Start and Debug" pluginName="Godot Support" pluginId="com.intellij.rider.godot" />
+                    </value>
+                  </entry>
                   <entry key="GlassfishConfiguration">
                     <value>
                       <FeaturePluginData displayName="GlassFish Server" pluginName="GlassFish" pluginId="GlassFish" />
