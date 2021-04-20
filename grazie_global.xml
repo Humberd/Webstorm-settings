@@ -6,15 +6,6 @@
         <option value="Polish" />
       </set>
     </option>
-    <option name="enabledGrammarStrategies">
-      <set>
-        <option value="JavaScript:JavaScript" />
-        <option value="nl.rubensten.texifyidea:Latex" />
-        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
-        <option value="tanvd.grazi:JSON" />
-        <option value="tanvd.grazi:TEXT" />
-      </set>
-    </option>
     <option name="userDisabledRules">
       <set>
         <option value="PASSIVE_VOICE" />
