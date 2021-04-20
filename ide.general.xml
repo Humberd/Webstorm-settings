@@ -21,6 +21,7 @@
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
+    <entry key="scala.erase.compiler.process.jdk.once" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
