@@ -26,5 +26,10 @@
         </option>
       </SuppressingContext>
     </option>
+    <option name="checkingContext">
+      <CheckingContext>
+        <option name="isCheckInStringLiteralsEnabled" value="true" />
+      </CheckingContext>
+    </option>
   </component>
 </application>

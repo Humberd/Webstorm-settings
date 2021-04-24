@@ -361,7 +361,7 @@
         <always-show-controls value="false" />
       </compiler>
       <debugger>
-        <debugger-type value="JDBC" />
+        <debugger-type value="ASK" />
         <use-generic-runners value="true" />
       </debugger>
     </operation-settings>
