@@ -3,9 +3,7 @@
     <ignoreFiles list=".dependency-info;CVS;" />
     <extensionMap>
       <mapping pattern="__templateFileName__" type="AUTO_DETECTED" />
-      <removed_mapping ext="exe" type="Binary" />
       <mapping ext="njk" type="HTML" />
-      <mapping ext="exe" type="Native" />
       <mapping pattern="__shallowTestFileName__" type="PLAIN_TEXT" />
       <mapping ext="tagx" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
