@@ -21,6 +21,7 @@
     <entry key="use.tabbed.welcome.screen" value="false" />
     <entry key="ide.new.project.model" value="false" />
     <entry key="ea.enable.developers.list" value="false" />
+    <entry key="ide.images.show.chessboard" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
