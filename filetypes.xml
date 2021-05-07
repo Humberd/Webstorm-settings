@@ -10,7 +10,6 @@
       <mapping ext="exe" type="Native" />
       <mapping pattern="__shallowTestFileName__" type="PLAIN_TEXT" />
       <mapping ext="tagx" type="PLAIN_TEXT" />
-      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="html" approved="true" type="Go Template" />
