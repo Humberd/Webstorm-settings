@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="__templateFileName__" type="AUTO_DETECTED" />
       <mapping ext="njk" type="HTML" />
+      <mapping pattern=".gdignore" type="Ignore File" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
