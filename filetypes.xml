@@ -8,6 +8,7 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="mkv" type="Native" />
       <mapping ext="exe" type="Native" />
       <mapping pattern="__shallowTestFileName__" type="PLAIN_TEXT" />
       <mapping ext="tagx" type="PLAIN_TEXT" />
