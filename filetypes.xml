@@ -2,9 +2,24 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list=".dependency-info;CVS;" />
     <extensionMap>
+      <mapping pattern="__templateFileName__" type="AUTO_DETECTED" />
+      <mapping ext="njk" type="HTML" />
+      <mapping pattern=".gdignore" type="Ignore File" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="mkv" type="Native" />
+      <mapping ext="exe" type="Native" />
+      <mapping pattern="__shallowTestFileName__" type="PLAIN_TEXT" />
+      <mapping ext="tagx" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="html" approved="true" type="Go Template" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
       <removed_mapping ext="tagx" approved="true" type="JSPX" />
     </extensionMap>
   </component>

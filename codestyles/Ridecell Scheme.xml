@@ -1,13 +1,12 @@
 <code_scheme name="Ridecell Scheme" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
@@ -19,9 +18,9 @@
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value>
-        <package name="java.util" withSubpackages="false" static="false" />
-        <package name="kotlinx.android.synthetic" withSubpackages="true" static="false" />
-        <package name="tornadofx" withSubpackages="false" static="false" />
+        <package name="java.util" alias="false" withSubpackages="false" />
+        <package name="kotlinx.android.synthetic" alias="false" withSubpackages="true" />
+        <package name="tornadofx" alias="false" withSubpackages="false" />
       </value>
     </option>
   </JetCodeStyleSettings>
@@ -53,7 +52,10 @@
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
-  <TypeScriptCodeStyleSettings>
+  <ScalaCodeStyleSettings>
+    <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+  </ScalaCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="SPACES_WITHIN_OBJECT_TYPE_BRACES" value="false" />
   </TypeScriptCodeStyleSettings>

@@ -52,7 +52,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="pvl" value="private var logger = KLogging().logger()" description="private var logger" toReformat="false" toShortenFQNames="true">
+  <template name="klog" value="private val logger = KotlinLogging.logger {}&#10;" description="private val logger = KotlinLogging.logger {}" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="KOTLIN" value="true" />
     </context>
