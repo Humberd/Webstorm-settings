@@ -1,0 +1,9 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="ignoredRemotes">
+      <list>
+        <option value="https://gitlab.com/sdimedia-sps/frontend.git" />
+      </list>
+    </option>
+  </component>
+</application>
