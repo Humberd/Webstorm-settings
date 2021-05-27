@@ -3,13 +3,11 @@
     <ignoreFiles list=".dependency-info;CVS;" />
     <extensionMap>
       <mapping pattern="__templateFileName__" type="AUTO_DETECTED" />
-      <mapping ext="csv" type="CSV/TSV" />
       <mapping ext="njk" type="HTML" />
       <mapping pattern=".gdignore" type="Ignore File" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <removed_mapping ext="csv" type="MyNative" />
       <mapping ext="mkv" type="Native" />
       <mapping ext="exe" type="Native" />
       <mapping pattern="__shallowTestFileName__" type="PLAIN_TEXT" />
@@ -25,6 +23,7 @@
       <removed_mapping ext="tagx" approved="true" type="JSPX" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
+      <mapping ext="csv" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
