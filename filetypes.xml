@@ -23,7 +23,6 @@
       <removed_mapping ext="tagx" approved="true" type="JSPX" />
       <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping ext="xlsx" approved="true" type="Native" />
-      <mapping ext="csv" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
