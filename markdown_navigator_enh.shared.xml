@@ -1,0 +1,9 @@
+<application>
+  <component name="Markdown Navigator Enhanced">
+    <DiagnosticSettings isTrackReports="true" isCheckFixes="true">
+      <diagnostics>
+        <diagnosticEntry id="6607" isFixed="false" fixedVersion="" description="" status="" isEap="false" />
+      </diagnostics>
+    </DiagnosticSettings>
+  </component>
+</application>
